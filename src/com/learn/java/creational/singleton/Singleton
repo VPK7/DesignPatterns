@@ -1,0 +1,13 @@
+Singleton properties
+-> Only one instance  of the class should exist
+->Used in logging, cache, sessions, drivers
+Implementation
+->constructor should be private
+->public static method for returning instances
+Initialization type
+->Eager
+->Lazy
+->Thread Safe Method
+->Thread Safe Block
+
+https://www.geeksforgeeks.org/singleton-design-pattern/
